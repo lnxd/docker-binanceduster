@@ -1,0 +1,2 @@
+python-binance==1.0.15
+apprise==0.9.6
